@@ -1,0 +1,15 @@
+.knopki{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items:center;
+    background-color: rgb(64, 82, 187);
+    height:950px;
+}
+
+.kn1, .kn2, .kn3{
+    width: 350px;
+    height: 150px;
+    border-radius: 15px;
+    border: none;
+}
